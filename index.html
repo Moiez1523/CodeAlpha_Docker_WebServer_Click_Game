@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Docker Click Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="game-container">
+  <h1>🎯 Docker Click Game</h1>
+  <p>Click the target as fast as you can! Reach <strong>10 points</strong> to win the game.</p>
+
+  <div class="stats">
+    <span>Score: <strong id="score">0</strong></span>
+    <span>Time: <strong id="time">120</strong>s</span>
+  </div>
+
+  <div class="game-area" id="gameArea"></div>
+
+  <button id="startStopBtn">Start Game</button>
+
+  <div id="endMessage"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
