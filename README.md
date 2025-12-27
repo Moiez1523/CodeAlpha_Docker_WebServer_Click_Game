@@ -1,6 +1,6 @@
-# Docker Click Game
+# Web Server using Docker
 
-🎯 **A Fun Click Game built with HTML, CSS, JavaScript, and Docker**  
+🎯 **A Web Server Click Game built with HTML, CSS, JavaScript, and Docker**  
 
 This is a **interactive webserver click game** designed to run inside a Docker container. The goal is to **score 10 points in 2 minutes** by clicking the randomly appearing targets. This project demonstrates **frontend development skills**, **JavaScript interactivity**, and **Docker deployment**.
 
